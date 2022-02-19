@@ -40,6 +40,7 @@ public HinhChuNhat(double d, double r) {
 	this.chieuDai=d;
 	this.chieuRong=r;
 }
+	//cham roi
 public HinhChuNhat() {}
 
 public static void main(String[] args) {
